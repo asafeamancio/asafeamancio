@@ -32,6 +32,9 @@
  <a href="https://discord.gg/cf9ufPwHwq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:asafeamancio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/asafeamancio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/asafeamancio/count.svg" /></p>
+
+
 ![snake gif](https://github.com/asafeamancio/asafeamancio/blob/output/github-contribution-grid-snake.svg)
