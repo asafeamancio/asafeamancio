@@ -37,4 +37,3 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/asafeamancio/count.svg" /></p>
 
 
-![Snake animation](https://github.com/asafeamancio/asafeamancio/blob/output/github-contribution-grid-snake.svg)
